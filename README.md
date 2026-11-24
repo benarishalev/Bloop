@@ -46,5 +46,3 @@ There is no dedicated admin-only page; instead, **Admin** accounts inherit all s
 * **Moderation & Oversight (Admin):** Remove games, ban/restrict users, and inspect site data across slices/statistics.
 
 ---
-
-If you want to customize any specific routes, tech stack details, or registration fields in this README, let me know which sections to tweak!
